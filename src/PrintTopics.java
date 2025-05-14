@@ -16,6 +16,8 @@ public class PrintTopics {
 
 
 
+
+
     public static void main(String[] args) {
         System.out.println("Вывод на русском:");
         printTopics(new Locale("ru", "RU"));
